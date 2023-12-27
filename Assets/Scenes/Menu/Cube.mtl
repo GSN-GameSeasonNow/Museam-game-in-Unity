@@ -1,0 +1,37 @@
+newmtl ProBuilderDefault
+map_Kd GridBox_Default.png
+Kd 1 1 1
+d 1
+
+newmtl potal
+map_Kd b83505a58971d476db4b6388f72cda05_COLOR.png
+bump b83505a58971d476db4b6388f72cda05_NRM.png
+disp b83505a58971d476db4b6388f72cda05_SPEC.png
+map_d b83505a58971d476db4b6388f72cda05_DISP.png
+Kd 1 1 1
+d 1
+
+newmtl wall
+map_Kd wallcovering-texture-known-as-grafiato_146714-2520_SPEC_COLOR.png
+bump wallcovering-texture-known-as-grafiato_146714-2520_SPEC_NRM.png
+disp wallcovering-texture-known-as-grafiato_146714-2520_SPEC_DISP.png
+map_d wallcovering-texture-known-as-grafiato_146714-2520_SPEC_SPEC.png
+Kd 1 1 1
+d 1
+
+newmtl floor
+map_Kd kitchen_wood_diff_1k.jpg
+bump kitchen_wood_nor_gl_1k.jpg
+disp kitchen_wood_ao_1k.jpg
+map_d kitchen_wood_ao_1k.jpg
+Kd 1 1 1
+d 1
+
+newmtl Wood2
+map_Kd plywood_diff_1k.jpg
+bump plywood_nor_gl_1k.jpg
+disp plywood_rough_1k.jpg
+map_d plywood_arm_1k.jpg
+Kd 1 1 1
+d 1
+
